@@ -1,0 +1,107 @@
+body {
+    background-color: aquamarine;
+    color: white;
+    padding: 70px;
+    font-family: Arial;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+
+.heading{
+    font-size: 30px;
+    color: rgb(252, 79, 79);
+}
+
+.container{
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+    width: 400px;
+    max-width: 100%;
+    height: 390px;
+    padding-top: 20px;
+    margin-left: 400px;
+
+}
+
+#btn{
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 3px;
+    width: 30%;
+}
+
+#btn:hover{
+    background-color: lightgray;
+}
+
+
+.form-control input {
+    border: 2px solid gray;
+    height: 20px;
+    border-radius: 4px;
+    font-size: 20px;
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 40px;
+	
+}
+.form-control select{
+    border: 2px solid gray;
+    height: 30px;
+    border-radius: 4px;
+    font-size: 20px;
+    
+ 
+}
+
+#city{
+    margin-left: 20px;
+}
+
+#city-h{
+    
+    margin-left: 13px;
+}
+
+#name{
+    margin-left: 5px;
+}
+
+
+#age{
+    margin-left: 15px;
+}
+
+#age-h{
+    margin-left: 15px;
+}
+
+#gender-h{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#gender-box{
+    margin-right: 150px;
+}
+
+.header{
+    color: black;
+    margin-bottom: 30px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+#enter{
+    font-size: 25px;
+    color: black
+    
+}
